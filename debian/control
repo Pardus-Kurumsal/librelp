@@ -2,10 +2,10 @@ Source: librelp
 Section: libs
 Priority: optional
 Maintainer: Michael Biebl <biebl@debian.org>
-Build-Depends: debhelper (>= 11~),
+Build-Depends: debhelper (>= 10),
                libgnutls28-dev (>= 2.10.0),
                pkg-config
-Standards-Version: 4.2.1
+Standards-Version: 3.9.8
 Rules-Requires-Root: no
 Vcs-Git: https://salsa.debian.org/debian/librelp.git
 Vcs-Browser: https://salsa.debian.org/debian/librelp
